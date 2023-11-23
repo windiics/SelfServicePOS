@@ -38,4 +38,4 @@ This is a Laravel Starter Template for your first projects, included Laravel/ui 
 
 ## Default User
 
-Default user is `admin@admin.com` and password `admin123`. you can change in `DatabaseSeeder.php` if you want
+Default user is `user@example.com` and password `user1234`. you can change in `DatabaseSeeder.php` if you want
